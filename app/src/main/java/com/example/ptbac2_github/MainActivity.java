@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //update commit on github
         ethesoa = (EditText)findViewById(R.id.ethesoa);
         ethesob = (EditText)findViewById(R.id.ethesob);
         ethesoc = (EditText)findViewById(R.id.ethesoc);
